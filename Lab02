@@ -1,1 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cameron Hurst - Resume</title>
+    <style>
+    h1 {
+      color: maroon;
+    }
+  </style>
+</head>
+<body>
 
+  <h1>Cameron Hurst</h1>
+  <p>camhurst15@gmail.com · 1044 Nancy Lane, Allen, TX, 75013 · (972)-762-1314</p>
+
+  <h2>Work Experience</h2>
+  <ul>
+    <li>
+      <strong>SiEnergy – GIS Technical Intern (May 2023 – July 2023)</strong>
+      <ul>
+        <li>Completed various ESRI Training programs including Field Maps, Geodatabases, and Geoprocessing</li>
+        <li>Worked with ArcGIS Pro, ArcGIS Enterprise, Field Maps, ArcGIS Experience Builder, Microsoft Suite.</li>
+        <li>Created proposals for new pipelines to submit to County officials and TXDOT.</li>
+        <li>Designed a web application to streamline the process of collecting data on company assets.</li>
+        <li>Updated data, and location accuracy of company assets.</li>
+      </ul>
+    </li>
+    <li>
+       <h1><a href="https://www.pinecove.com/">Pine Cove Camps</a> </h1>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Pinus_Sylvestris_-_Köhler%E2%80%93s_Medizinal-Pflanzen-078.jpg/220px-Pinus_Sylvestris_-_Köhler%E2%80%93s_Medizinal-Pflanzen-078.jpg" alt="Pine Cone" width="200">
+      <ul>
+        <li>Led 8th and 9th grade boys in their weekly activities and in their character and faith development.</li>
+        <li>Responsible for the planning and execution of high-risk activities including archery and hatchet-throwing.</li>
+      </ul>
+    </li>
+  </ul>
+
+  <h2>Education</h2>
+  <ul>
+    <li>
+       <h1><a href="https://www.tamu.edu">Texas A&M University</a> </h1>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Texas_A%26M_University_logo.svg" alt="Texas A&M University" width="200">
+
+      <ul>
+        <li>Pursuing a Bachelor of Science in Geographic Information Science and Technology</li>
+        <li>Program GPA – 3.2</li>
+        <li>Previously majored Nuclear Engineering</li>
+        <li>Anticipated graduation in May of 2024</li>
+      </ul>
+    </li>
+  </ul>
+
+  <h2>Technical Skills</h2>
+  <ul>
+    <li>Python & Java programming</li>
+    <li>ArcGIS Pro, ArcGIS Online, Field Maps, ArcGIS Enterprise, and Microsoft Suite</li>
+    <li>Data Analytics, Data Collection</li>
+    <li>Google Earth Engine</li>
+  </ul>
+
+  <h2>Activities</h2>
+  <ul>
+    <li>
+      <strong>Texas A&M University</strong>
+      <ul>
+        <li>National Model United Nations – Awarded Honorable Mention representing Texas A&M University at the Model United Nations in Washington, DC.</li>
+        <li>Gents of Texas A&M – Served as the Special Events Officer for two years, Brotherhood Officer for one year, and served on the recruitment committee for 3 years. Participated in multiple service events including tutoring, street cleans, and the Big Event. Fundraised money for the Iron Freedom Foundation.</li>
+        <li>Gent of the Year - Displaying characteristics of Humility, Empathy, Authenticity and Altruism</li>
+        <li>Secretary – Aggie CAD</li>
+        <li>Representative – Elected to serve as a representative on student government.</li>
+        <li>Deans List</li>
+      </ul>
+    </li>
+  </ul>
+
+</body>
+</html>
